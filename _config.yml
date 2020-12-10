@@ -53,7 +53,7 @@ theme: default
 
 # Unless you know what you're doing, no need to change anything below
 # Build settings
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/svbss" # the subpath of your site, e.g. /blog/
 markdown: kramdown
 kramdown:
   input: GFM
